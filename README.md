@@ -5,7 +5,7 @@ Declare all methods as static.
    
    Given a string, **numberOfVowels** will return the number of vowels in that string. Consider a, e, i, o, u as vowels. 
 
-2. Write a method called *notDivisibleBy235**.
+2. Write a method called **notDivisibleBy235**.
    
    Given a number N, **notDivisibleBy235** will return the number of natural numbers not exceeding N that are not divisible by any of the numbers [2, 3, 5].
 
